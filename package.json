@@ -1,7 +1,7 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": "Antor Ray Chat Bot",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By Antor Ray",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
